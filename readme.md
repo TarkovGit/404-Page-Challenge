@@ -12,5 +12,8 @@
 - [CSS]
 ![picture](https://github.com/TarkovGit/404-Page-Challenge/assets/173510702/9c7fe0e0-e9e5-45f8-ac95-f3803091f113)
 
+![picture responsive](https://github.com/TarkovGit/404-Page-Challenge/assets/173510702/2e403150-76b3-4518-9783-c98f16fca227)
+
+
 
 https://tarkovgit.github.io/404-Page-Challenge/
